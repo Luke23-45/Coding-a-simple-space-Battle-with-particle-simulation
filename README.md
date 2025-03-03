@@ -84,7 +84,7 @@ The project is structured as follows:
 - **`main()`**: The main game loop, handling game initialization, event processing, updates, rendering, and resource management.
 
 ## Demo Video
-Check out the project demo video on YouTube: [Project Demo](https://www.youtube.com/watch?v=McOcbGHyAWA)
+Check out the project demo video on YouTube: https://youtu.be/HDTzYFRzg50
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
